@@ -13,6 +13,8 @@ Practical, copy-pasteable guides for people who need Google, Instagram, YouTube,
 | [Linux 上安装 VPN（Ubuntu / Debian / Fedora / 服务器）](guides/zh/linux-vpn.md) | [VPN on Linux: Ubuntu, Debian, Fedora and headless servers](guides/en/linux-vpn.md) |
 | [终端代理配置：git、npm、pip、brew、curl](guides/zh/terminal-proxy.md) | [Terminal proxy setup: git, npm, pip, brew, curl](guides/en/terminal-proxy.md) |
 | [回国后哪些网站和 App 需要 VPN](guides/zh/what-needs-vpn-in-china.md) | [Which sites and apps need a VPN in China](guides/en/what-needs-vpn-in-china.md) |
+| [docker pull 超时怎么办](guides/zh/docker-pull-in-china.md) | [docker pull times out in China](guides/en/docker-pull-in-china.md) |
+| [国内下载 Hugging Face 模型](guides/zh/huggingface-in-china.md) | [Downloading Hugging Face models from China](guides/en/huggingface-in-china.md) |
 
 ## Scripts · 脚本
 
